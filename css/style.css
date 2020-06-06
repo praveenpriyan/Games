@@ -1,0 +1,49 @@
+body
+{
+    background-color: black;
+}
+
+hr{
+    border-style: inset;
+    border-color: whitesmoke;
+    border-width: 1px;
+    width: 100%;
+
+}
+li{
+    position: relative;
+    left: 100px;
+    color: purple;
+}
+em{
+    color: whitesmoke;
+}
+em:hover{
+    color: rgb(41, 20, 230);
+}
+h1{
+
+    color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+
+}
+h2{
+    color: darkcyan;
+    position: relative;
+    left: 100px;
+}
+title{
+    color: yellow;
+}
+.Square{
+    border-radius: 50px;
+    position: relative;
+    left: 800px;
+    bottom: -50px;
+    float: left;
+}
+img{
+    background-color: whitesmoke;
+    width: 25%;
+}

@@ -1,0 +1,15 @@
+body{
+    background-color: lavender;
+}
+img{
+    float: right;
+    border-radius: 50px;
+    width: 25%;
+    position: inherit;
+}
+hr{
+    border-style: dotted;
+    width: 50%;
+    color: black;
+    border-width: 25%;
+}
